@@ -1,0 +1,16 @@
+{
+    "name": "leaked-and-putlokers-john-wick-4-watch-streaming-online-for-at-home",
+    "version": "4.2.7",
+    "homepage": "",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git"
+    },
+    "author": "xava",
+    "license": "ISC"
+  }
